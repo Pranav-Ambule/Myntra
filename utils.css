@@ -12,6 +12,10 @@
 .justify-center{
     justify-content: center;
 }
+.text-decoration-none{
+    text-decoration: none;
+    color: inherit;
+}
 
 .space-between{
     justify-content: space-between;
